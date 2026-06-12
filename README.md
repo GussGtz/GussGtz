@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-gutierrez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://twitter.com/GustavoGtzzz" target="_blank">
@@ -41,8 +41,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GussGtz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=GussGtz&theme=dracula&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=GussGtz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GussGtz&theme=dracula&column=8&margin-w=8&margin-h=8" alt="trophy graph" />
 </div>
 
 ###
