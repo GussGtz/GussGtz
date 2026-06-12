@@ -1,9 +1,5 @@
 <img align="right" height="150" src="https://gifdb.com/images/thumbnail/star-fox-fox-mccloud-approved-zvkshcbmv577ujue.gif" />
 
-<br>
-
-###
-
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
