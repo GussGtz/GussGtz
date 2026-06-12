@@ -1,8 +1,10 @@
-<img align="right" height="160" src="https://gifdb.com/images/thumbnail/star-fox-fox-mccloud-approved-zvkshcbmv577ujue.gif" />
+<img align="right" height="150" src="https://gifdb.com/images/thumbnail/star-fox-fox-mccloud-approved-zvkshcbmv577ujue.gif" />
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<br>
 
 ###
+
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
