@@ -36,7 +36,7 @@
   <a href="mailto:gutierrezgustavocanul@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://guss-gtz-github-io.vercel.app/" target="_blank">
+  <a href="https://gussgtz.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
   <a href="https://www.instagram.com/gtz_gustavo/" target="_blank">
