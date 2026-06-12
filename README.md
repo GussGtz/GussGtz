@@ -45,9 +45,6 @@
   <a href="https://www.tiktok.com/@gtz_gustavo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo" />
   </a>
-  <a href="https://www.youtube.com/channel/UCAOVUeln2B5Shg0lbNx0yrA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
 </div>
 
 ###
