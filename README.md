@@ -1,3 +1,6 @@
+<a href="https://gussgtz.github.io/" target="_blank">
+  <img align="left" height="80" src="https://gussgtz.github.io/assets/logodev.png" alt="GussGtz logo" />
+</a>
 <img align="right" height="160" src="https://gifdb.com/images/thumbnail/star-fox-fox-mccloud-approved-zvkshcbmv577ujue.gif" />
 
 <h1 align="center">Hey 👋 What's Up?</h1>
