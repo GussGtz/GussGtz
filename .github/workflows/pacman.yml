@@ -11,17 +11,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: GussGtz
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
-
-      - name: Deploy to pacman-output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: pacman-output
-          publish_dir: dist
-          force_orphan: true
+            pacman-output:pacman-contribution-graph.svg
+            pacman-output:pacman-contribution-graph-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
