@@ -47,4 +47,4 @@
 
 ###
 
-<img width="100%" alt="pacman contribution graph" src="https://raw.githubusercontent.com/GussGtz/GussGtz/pacman-output/pacman-contribution-graph-dark.svg">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GussGtz&theme=dracula&hide_border=true&area=true" alt="activity graph" />
