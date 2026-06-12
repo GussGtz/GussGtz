@@ -58,6 +58,8 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GussGtz&theme=dracula&hide_border=true&area=true" alt="activity graph" />
 
-<a href="https://gussgtz.github.io/" target="_blank">
-  <img align="left" height="80" src="https://gussgtz.github.io/assets/logodev.png" alt="GussGtz logo" style="filter:invert(1);opacity:0.85;" />
-</a>
+<div align="center">
+  <a href="https://gussgtz.github.io/" target="_blank">
+    <img height="80" src="https://raw.githubusercontent.com/GussGtz/GussGtz/main/assets/logodev-white.png" alt="GussGtz logo" />
+  </a>
+</div>
