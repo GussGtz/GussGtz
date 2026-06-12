@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
@@ -15,9 +17,11 @@ jobs:
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Deploy to pacman-output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: pacman-output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: pacman-output
+          publish_dir: dist
+          force_orphan: true
