@@ -16,9 +16,7 @@ jobs:
       - uses: Platane/snk/svg-only@v2
         with:
           github_user_name: GussGtz
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+          outputs: dist/pacman-contribution-graph.svg
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
